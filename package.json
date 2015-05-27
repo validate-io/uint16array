@@ -26,7 +26,17 @@
     "validate.io",
     "validate",
     "validation",
-    "validator"
+    "validator",
+    "valid",
+    "is",
+    "array",
+    "typed",
+    "typed array",
+    "uint16array",
+    "isuint16array",
+    "class",
+    "constructor",
+    "instance"
   ],
   "bugs": {
     "url": "https://github.com/validate-io/uint16array/issues"
